@@ -1,12 +1,16 @@
 # Olá, me chamo Florentino! 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, tenho 25 anos, e estou me preparando para atuar na área de tecnologia. Venho estudando continuamente conceitos que envolvem o desenvolvimento Web, como HTML, CSS, JavaScript e React. 
+Sou estudante de Análise e Desenvolvimento de Sistemas, tenho 25 anos, e estou me preparando para atuar na área de tecnologia. Venho estudando continuamente conceitos que envolvem o desenvolvimento de softwares, como HTML, CSS, JavaScript, React e Python. 
 
-Além disso, busco utilizar o GitHub para documentar e construir projetos que envolvem meu aprendizado!
+Dessa forma, busco utilizar o GitHub para documentar e construir projetos que envolvem meu aprendizado!
 
-## Tecnologias e ferramentas
+## Tecnologias e ferramentas em estudo
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ## Contatos
 <div>
